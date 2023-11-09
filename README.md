@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VortexBlade
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning git and java
+- 🌱 I’m currently learning java, python and other front-end technique
 - 💞️ I’m looking to collaborate on my own now
 - 📫 How to reach me : qq 1257475904
 
