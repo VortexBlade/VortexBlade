@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @VortexBlade
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning java, python and other front-end technique
-- 💞️ I’m looking to collaborate on my own now
-- 📫 How to reach me : qq 1257475904
+
 
 <!---
 VortexBlade/VortexBlade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
